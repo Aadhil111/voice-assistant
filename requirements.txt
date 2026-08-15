@@ -1,0 +1,6 @@
+livekit-agents>=1.6.1
+livekit-plugins-deepgram
+livekit-plugins-groq
+livekit-plugins-cartesia
+livekit-plugins-ai-coustics
+python-dotenv
